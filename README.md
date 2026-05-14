@@ -111,7 +111,7 @@
 
 </div>
 
-> 📌 Upload your network diagrams into a repository and link them here.
+
 
 ---
 
@@ -142,7 +142,7 @@
 
 </div>
 
-> 📌 Add screenshots of your homelab setup later.
+> 📌 Screenshots of my homelab will be added later.
 
 ---
 
